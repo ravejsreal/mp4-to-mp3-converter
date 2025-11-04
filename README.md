@@ -44,4 +44,3 @@ Enter MP4 file path (or 'q' to quit):
 ```
 
 Drop in your MP4 path and it converts it. Shows you the video duration and file sizes when it's done.
-"# mp4-to-mp3-converter" 
